@@ -2,7 +2,7 @@ import React from "react";
 import grid1 from "../../assets/images/Shared goals-bro 1 (1).png";
 import grid2 from "../../assets/images/Typewriter-bro 1.png";
 import grid3 from "../../assets/images/House bookshelves-bro 1.png";
-import grid4 from "../../assets/images/";
+import grid4 from "../../assets/images/Podcast audience-bro 1.png";
 
 const Skills = () => {
   return (
