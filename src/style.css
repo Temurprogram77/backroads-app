@@ -35,3 +35,15 @@
   background: transparent;
   border: 2px solid black;
 }
+/* Header */
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.left-part-header {
+  max-width: 500px;
+}
+.right-part-header img {
+  width: 500px;
+}
