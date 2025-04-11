@@ -7,6 +7,7 @@ import About from './components/about/about.jsx';
 import Pricing from './components/pricing/pricing.jsx';
 import Contact from './components/contact/contact.jsx';
 import Footer from './components/footer/footer.jsx';
+import './style.css'
 
 const Inndex = () => {
   return (
