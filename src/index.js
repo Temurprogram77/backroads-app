@@ -4,7 +4,7 @@ import ReactDOM from "react-dom/client";
 const Index = () => {
   return (
     <div>
-      
+      <Navbar />
     </div>
   )
 }
