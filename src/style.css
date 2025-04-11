@@ -12,7 +12,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 10px 0;
+  padding: 40px 0;
 }
 .navbar ul {
   display: flex;
@@ -37,12 +37,27 @@
 }
 /* Header */
 .header {
+  margin-top: 50px;
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 .left-part-header {
   max-width: 500px;
+}
+.left-part-header h2 {
+  font-size: 60px;
+}
+.left-part-header p {
+  font-size: 22px;
+  margin: 40px 0;
+}
+.button {
+  width: fit-content;
+  font-size: 20px;
+  padding: 20px 100px;
+  background: #000;
+  color: white;
 }
 .right-part-header img {
   width: 500px;

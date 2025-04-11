@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <div className="container header">
       <div className="left-part-header">
-        <h2>Learn Any Foreign Language</h2>
+        <h2>Learn <br /> Any Foreign Language</h2>
         <p>
           With our teachers who write a program for each student, you will be
           able to make your first sketch after the first lesson.
