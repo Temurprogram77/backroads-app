@@ -50,14 +50,19 @@
 }
 .left-part-header p {
   font-size: 22px;
-  margin: 40px 0;
+  margin: 30px 0;
 }
 .button {
+  cursor: pointer;
+  border-radius: 5px;
   width: fit-content;
   font-size: 20px;
   padding: 20px 100px;
-  background: #000;
+  background: #263238;
   color: white;
+}
+.button:hover {
+  background: #000;
 }
 .right-part-header img {
   width: 500px;
