@@ -11,6 +11,19 @@ const Skills = () => {
       <div class="parent">
         <div class="div1">
           <img src={grid1} alt="grid1" />
+          <h3>Speaking</h3>
+          <br />
+          <p>
+            Improve your English skills and confidence. Live classes and
+            interactive lessons online. 20% extra free for a limited time only
+            <br />
+            <br />
+            Learn English online and improve your skills through our
+            high-quality courses and resources – all designed for adult language
+            learners.
+          </p>
+          <br />
+          <div className="button2">Learn more</div>
         </div>
         <div class="div2">
           <img src={grid2} alt="grid2" />

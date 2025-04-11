@@ -9,7 +9,7 @@ import Contact from './components/contact/contact.jsx';
 import Footer from './components/footer/footer.jsx';
 import './style.css'
 
-const Inndex = () => {
+const Index = () => {
   return (
     <div>
       <Navbar />
@@ -26,4 +26,4 @@ const Inndex = () => {
 const rootElement = document.getElementById("root");
 const root = ReactDOM.createRoot(rootElement);
 
-root.render(<Inndex />);
+root.render(<Index />);
