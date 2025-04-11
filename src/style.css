@@ -67,6 +67,10 @@
 .right-part-header img {
   width: 500px;
 }
+.skills h2 {
+  text-align: center;
+  margin: 10px 0;
+}
 
 .parent img {
   width: 100%;
@@ -75,7 +79,7 @@
 .parent {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
-  grid-template-rows: repeat(6, 1fr);
+  grid-template-rows: repeat(5, 1fr);
   gap: 1rem;
 }
 
@@ -84,7 +88,7 @@
   border-radius: 10px;
   background: #f5f5f5;
   grid-column: span 2 / span 2;
-  grid-row: span 6 / span 6;
+  grid-row: span 5 / span 5;
 }
 
 .div2 {
@@ -92,7 +96,7 @@
   border-radius: 10px;
   background: #f5f5f5;
   grid-column: span 2 / span 2;
-  grid-row: span 4 / span 4;
+  grid-row: span 3 / span 3;
   grid-column-start: 3;
 }
 
@@ -101,7 +105,7 @@
   border-radius: 10px;
   background: #f5f5f5;
   grid-column: span 2 / span 2;
-  grid-row: span 4 / span 4;
+  grid-row: span 3 / span 3;
   grid-column-start: 5;
 }
 
@@ -112,7 +116,7 @@
   grid-column: span 4 / span 4;
   grid-row: span 2 / span 2;
   grid-column-start: 3;
-  grid-row-start: 5;
+  grid-row-start: 4;
 }
 
 .button2 {

@@ -6,7 +6,7 @@ import grid4 from "../../assets/images/Podcast audience-bro 1.png";
 
 const Skills = () => {
   return (
-    <div className="container">
+    <div className="container skills">
       <h2>Skills</h2>
       <div class="parent">
         <div class="div1">
