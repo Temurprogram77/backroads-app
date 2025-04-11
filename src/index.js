@@ -12,7 +12,6 @@ import './style.css'
 const Index = () => {
   return (
     <div>
-      h2
       <Navbar />
       <Header />
       <Skills />
